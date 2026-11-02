@@ -47,9 +47,7 @@ public class TemperaturasControlador {
             }
         }
     }
-
-    // Punto 2: PENDIENTE — lo completa el compañero encargado del promedio por rango
-    // y la gráfica de barras. Ver explicación aparte.
+    
     // Punto 2: promedio por ciudad en un rango de fechas + gráfica de barras
     private void graficarPromedioPorRango() {
         if (registros == null || registros.isEmpty()) {
