@@ -11,3 +11,7 @@
 #vs code
 .vscode/
 bin/
+
+!lib/
+!lib/jcommon-1.0.24.jar
+!lib/jcommon-1.0.24.jar
